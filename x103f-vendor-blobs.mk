@@ -447,5 +447,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/bin/qcom-system-daemon:system/bin/qcom-system-daemon \
     $(LOCAL_PATH)/proprietary/bin/mm-audio-ftm:system/bin/mm-audio-ftm \
     $(LOCAL_PATH)/proprietary/bin/qseecom_sample_client:system/bin/qseecom_sample_client \
+    $(LOCAL_PATH)/proprietary/bin/vm_bms:system/bin/vm_bms \
     $(LOCAL_PATH)/proprietary/bin/serialno:system/bin/serialno \
     $(LOCAL_PATH)/proprietary/bin/qseecomd:system/bin/qseecomd
