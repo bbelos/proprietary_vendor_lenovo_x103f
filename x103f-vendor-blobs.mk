@@ -24,11 +24,16 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/lib/sensors.native.so:system/lib/sensors.native.so \
     $(LOCAL_PATH)/proprietary/lib/hw/camera.msm8909.so:system/lib/hw/camera.msm8909.so \
     $(LOCAL_PATH)/proprietary/lib/hw/sensors.msm8909.so:system/lib/hw/sensors.msm8909.so \
+    $(LOCAL_PATH)/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     $(LOCAL_PATH)/proprietary/lib/hw/lights.msm8909.so:system/lib/hw/lights.msm8909.so \
+    $(LOCAL_PATH)/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    $(LOCAL_PATH)/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     $(LOCAL_PATH)/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     $(LOCAL_PATH)/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     $(LOCAL_PATH)/proprietary/lib/libtsvideoprocess.so:system/lib/libtsvideoprocess.so \
     $(LOCAL_PATH)/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
+    $(LOCAL_PATH)/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    $(LOCAL_PATH)/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     $(LOCAL_PATH)/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     $(LOCAL_PATH)/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     $(LOCAL_PATH)/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
