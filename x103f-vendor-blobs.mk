@@ -436,6 +436,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     $(LOCAL_PATH)/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
     $(LOCAL_PATH)/proprietary/vendor/bin/qti:system/vendor/bin/qti \
+    $(LOCAL_PATH)/proprietary/bin/time_daemon:system/bin/time_daemon \
     $(LOCAL_PATH)/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     $(LOCAL_PATH)/proprietary/bin/pm-service:system/bin/pm-service \
     $(LOCAL_PATH)/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
